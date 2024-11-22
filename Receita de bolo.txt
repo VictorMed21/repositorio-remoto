@@ -9,3 +9,5 @@ Receita de bolo
 - Açúcar
 - Chocolate
 - Baunilha
+- Óleo 
+- Cenoura
