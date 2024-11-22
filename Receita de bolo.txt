@@ -4,5 +4,8 @@ Receita de bolo
 -Ovos
 -Raspas de limão
 -Manteiga
--Fermento
 -Leite
+-Fermento
+-Açúcar
+-Chocolate
+-Baunilha
